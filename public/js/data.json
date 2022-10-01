@@ -1,0 +1,85 @@
+{
+    "services" : [
+        {
+            "id" : 1,
+            "icon_name": "fas fa-paint-brush",
+            "title": "PSD TO HTML&CSS",
+            "body": "turn your designs into web standards compliant HTML5/CSS3 package. also doing JavaScript development."
+        },
+        {
+            "id" : 2,
+            "icon_name": "fas fa-code",
+            "title": "Javascript Development",
+            "body": "JavaScript frameworks sit at the heart of any modern website. Toptal JavaScript developers use their extensive experience with core JavaScript development and the newest frameworks and libraries to build dynamic and responsive websites."
+        },
+        
+        {
+            "id" : 3,
+            "icon_name": "fas fa-mobile",
+            "title": "responsive design",
+            "body": "creating web pages that look good on all devices! A responsive web design will automatically adjust for different screen sizes and viewports. "
+        },
+        {
+            "id" : 4,
+            "icon_name": "fas fa-bullhorn",
+            "title": "Awesome Support",
+            "body": "support services to keep your site updated, Keeping your website updated and optimized is not just convenient, it’s critical!"
+        }
+        , {
+            "id" : 6,
+            "icon_name": "fab fa-wordpress",
+            "title": "wordpress",
+            "body": "create your WordPress website for any type of business"
+        },
+        {
+            "id" : 7,
+            "icon_name": "fa fa-database",
+            "title": "mongoDB",
+            "body": "create, INSERT, UPDATE and DELETE statements to your Database"
+        }
+        
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "../image/rp-img.png",
+            "link": "https://iridescent-cendol-577ca0.netlify.app/"
+        },
+        {
+            "id":2,
+            "image": "../image/e-img.png",
+            "link": "https://e-commerce-js-website.netlify.app/"
+        },
+        {
+            "id":3,
+            "image": "../image/w-img.png",
+            "link": "https://condescending-swirles-dcd350.netlify.app/"
+        },
+        {
+            "id":4,
+            "image": "../image/t-img.png",
+            "link": "https://sharp-albattani-4a57ae.netlify.app/"        },
+        {
+            "id":5,
+            "image": "../image/h-img.png",
+            "link": "https://chipper-griffin-24c2c9.netlify.app/"        },
+        {
+            "id":6,
+            "image": "../image/p-img.png",
+            "link": "https://bookshop.w3spaces.com/"        },
+        {
+            "id":7,
+            "image": "../image/i-img.png",
+            "link": "https://kejx20yfxh5gse1f5hlewq.on.drv.tw/invitation/index.html.html"   },
+            {
+                "id":8,
+                "image": "../image/b-img.png",
+                "link": "https://bootstrap-demo-iti.netlify.app/"   },
+                {
+                    "id":9,
+                    "image": "../image/bp-img.png",
+                    "link": "https://bootstrap-portfolio-iti.netlify.app/"   }
+] 
+
+}
